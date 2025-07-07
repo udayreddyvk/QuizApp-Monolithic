@@ -1,4 +1,4 @@
-package com.example.QuizApp;
+package com.example.QuizApp.service;
 
 import com.example.QuizApp.dao.QuestionDao;
 import com.example.QuizApp.dao.QuizDao;
@@ -6,7 +6,6 @@ import com.example.QuizApp.model.Question;
 import com.example.QuizApp.model.QuestionWrapper;
 import com.example.QuizApp.model.Quiz;
 import com.example.QuizApp.model.Response;
-import com.example.QuizApp.service.QuizService;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
